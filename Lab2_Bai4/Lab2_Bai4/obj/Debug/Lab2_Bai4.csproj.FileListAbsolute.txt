@@ -1,0 +1,9 @@
+D:\MaDoc\Lab2_Bai4\Lab2_Bai4\bin\Debug\Lab2_Bai4.exe.config
+D:\MaDoc\Lab2_Bai4\Lab2_Bai4\bin\Debug\Lab2_Bai4.exe
+D:\MaDoc\Lab2_Bai4\Lab2_Bai4\bin\Debug\Lab2_Bai4.pdb
+D:\MaDoc\Lab2_Bai4\Lab2_Bai4\obj\Debug\Lab2_Bai4.ProjectInstaller.resources
+D:\MaDoc\Lab2_Bai4\Lab2_Bai4\obj\Debug\Lab2_Bai4.csproj.GenerateResource.cache
+D:\MaDoc\Lab2_Bai4\Lab2_Bai4\obj\Debug\Lab2_Bai4.csproj.CoreCompileInputs.cache
+D:\MaDoc\Lab2_Bai4\Lab2_Bai4\obj\Debug\Lab2_Bai4.exe
+D:\MaDoc\Lab2_Bai4\Lab2_Bai4\obj\Debug\Lab2_Bai4.pdb
+D:\MaDoc\Lab2_Bai4\Lab2_Bai4\obj\Debug\Lab2_Bai4.csprojAssemblyReference.cache

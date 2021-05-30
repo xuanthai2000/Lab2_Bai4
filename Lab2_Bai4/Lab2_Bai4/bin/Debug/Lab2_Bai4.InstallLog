@@ -1,0 +1,22 @@
+﻿Installing assembly 'D:\MaDoc\Lab2_Bai4\Lab2_Bai4\bin\Debug\Lab2_Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MaDoc\Lab2_Bai4\Lab2_Bai4\bin\Debug\Lab2_Bai4.InstallLog
+   assemblypath = D:\MaDoc\Lab2_Bai4\Lab2_Bai4\bin\Debug\Lab2_Bai4.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\MaDoc\Lab2_Bai4\Lab2_Bai4\bin\Debug\Lab2_Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MaDoc\Lab2_Bai4\Lab2_Bai4\bin\Debug\Lab2_Bai4.InstallLog
+   assemblypath = D:\MaDoc\Lab2_Bai4\Lab2_Bai4\bin\Debug\Lab2_Bai4.exe
+Uninstalling assembly 'D:\MaDoc\Lab2_Bai4\Lab2_Bai4\bin\Debug\Lab2_Bai4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MaDoc\Lab2_Bai4\Lab2_Bai4\bin\Debug\Lab2_Bai4.InstallLog
+   assemblypath = D:\MaDoc\Lab2_Bai4\Lab2_Bai4\bin\Debug\Lab2_Bai4.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
